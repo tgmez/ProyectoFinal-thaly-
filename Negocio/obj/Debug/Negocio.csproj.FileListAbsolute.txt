@@ -1,0 +1,21 @@
+C:\Users\Ignacio\Desktop\ProyectoFinal-master\ProyectoFinal-master\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\ProyectoFinal-master\ProyectoFinal-master\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\ProyectoFinal-master\ProyectoFinal-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\ProyectoFinal-master\ProyectoFinal-master\Negocio\bin\Debug\Persistencia.dll
+C:\Users\Ignacio\Desktop\ProyectoFinal-master\ProyectoFinal-master\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\Ignacio\Desktop\ProyectoFinal-master\ProyectoFinal-master\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\ProyectoFinal-master\ProyectoFinal-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ceibal\Desktop\ProyectoFinal-master (1)\ProyectoFinal-master\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ceibal\Desktop\ProyectoFinal-master (1)\ProyectoFinal-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ceibal\Desktop\ProyectoFinal-master (1)\ProyectoFinal-master\Negocio\bin\Debug\Persistencia.dll
+C:\Users\Ceibal\Desktop\ProyectoFinal-master (1)\ProyectoFinal-master\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\Ceibal\Desktop\ProyectoFinal-master (1)\ProyectoFinal-master\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ceibal\Desktop\ProyectoFinal-master (1)\ProyectoFinal-master\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ceibal\Desktop\ProyectoFinal-master (1)\ProyectoFinal-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ceibal\Desktop\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ceibal\Desktop\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ceibal\Desktop\ProyectoFinal\Negocio\bin\Debug\Persistencia.dll
+C:\Users\Ceibal\Desktop\ProyectoFinal\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\Ceibal\Desktop\ProyectoFinal\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ceibal\Desktop\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ceibal\Desktop\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
